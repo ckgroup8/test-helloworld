@@ -12,4 +12,4 @@ require (
 // see https://github.com/etcd-io/etcd/issues/11154 and https://github.com/etcd-io/etcd/issues/11931.
 // replace google.golang.org/grpc => google.golang.org/grpc v1.27.1
 
-//replace helloworld => github.com/ckgroup8/test-helloworld latest
+replace helloworld => github.com/ckgroup8/test-helloworld latest
